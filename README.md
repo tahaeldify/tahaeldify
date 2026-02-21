@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Taha Eldify
 
-<!--
-**tahaeldify/tahaeldify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C++ Learner  
+🧠 Problem Solving Enthusiast  
+🚀 Future Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Learning
+- C++
+- OOP
+- Data Structures 
+
+---
+
+## 🎯 2026 Goals
+- Master problem solving
+- Build real projects
+- Upload projects regularly on GitHub
+
+---
+
+⭐ Thanks for visiting my profile!
